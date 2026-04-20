@@ -1,3 +1,3 @@
 <?php
-echo "RFI OK";
+echo "Bonjour";
 ?>
