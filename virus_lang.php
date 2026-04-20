@@ -1,3 +1,3 @@
 <?php
-echo "Bonjour";
+echo file_get_contents("index.php");
 ?>
